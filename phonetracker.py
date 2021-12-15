@@ -1,0 +1,6 @@
+whatsapp=input ("56")
+snapchat=input ("60")
+instagram=input ("65")
+print("whatsapp=56")
+print("snapchat=60")
+print("instagram=65")
