@@ -72,7 +72,7 @@ class phone_Contacts:
 
 Bharath=phone_Contacts("Bharath","waj","9884412975","bharathwaj@gmail.com","Family","28/02/2002")
 Bharath.open_phcontacts()
-bharath.firstname_verification()
+Bharath.firstname_verification()
 Bharath.lastname_verification()
 Bharath.phoneno_verification()
 Bharath.emailid_verification()
